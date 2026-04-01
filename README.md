@@ -160,3 +160,22 @@ The analysis identifies **three major revenue growth opportunities**:
 
 By aligning sales and marketing strategies with these insights, **QuantumLeap Analytics can improve revenue performance, customer acquisition efficiency, and profitability.**
 
+---
+
+# Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Business Data Analysis
+- Data Visualization
+- Insight Generation
+- Strategic Business Recommendations
+
+---
+
+# Author
+
+Aman Paliwal
+
+Data Analyst
